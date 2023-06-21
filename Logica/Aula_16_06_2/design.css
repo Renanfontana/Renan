@@ -1,0 +1,19 @@
+button{
+    background-color: lightseagreen;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 20%;
+    font-size: 30px;
+}
+body{
+    background-color: snow;
+    text-align: center;
+}  
+
+input{
+    width: 250px;
+    height: 30px;
+    border-style: solid black  ;
+    border-width: 5px;
+}
